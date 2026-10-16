@@ -1,0 +1,8 @@
+firmware/.pio/
+firmware/include/secrets.h
+terraform/.terraform/
+terraform/*.tfstate*
+terraform/*.tfvars
+__pycache__/
+*.pem
+*.key
